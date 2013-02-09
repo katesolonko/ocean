@@ -2,7 +2,7 @@ ocean
 =====
 
 A simple simulation of how bicomponent system can have features of selforganization.
-Like in James Lovelock`s "Daisyworld" model it shows the populations` cycling.
+Like in James Lovelock`s 'Daisyworld' model it shows the cycling of populations.
 
 What happens here:
   "prey" can eat, grow, produce children and die;
